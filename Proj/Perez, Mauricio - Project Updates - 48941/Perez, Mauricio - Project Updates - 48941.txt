@@ -1,0 +1,7 @@
+Concepts to include from the following chapters
+GUI components including menus, dialogs, popups and forms
+
+Post here the updates to your personal as well as group project.  Delineate in your group project the responsibility of each group member.
+
+Submit your documentation and programs here with an external email to yourself  and mark.lehr@rcc.edu with subject:  
+Perez, Mauricio - Project Updates - 48941

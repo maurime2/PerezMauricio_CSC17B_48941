@@ -1,0 +1,5 @@
+Convert the QT 4 examples to QT 5.
+
+Zip all the folders, post here and create an email which copies yourself and attach the zip file then send to mark.lehr@rcc.edu with subject:  
+Perez, Mauricio - Chapters 1,2,3,6 Scripts - 48941
+

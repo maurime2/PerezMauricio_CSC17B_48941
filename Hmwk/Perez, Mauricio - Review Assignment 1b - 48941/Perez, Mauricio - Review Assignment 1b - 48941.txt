@@ -1,0 +1,35 @@
+Review some console app code for Qt
+
+https://github.com/ml1150258/LehrMark_CSC17B_48941/tree/master/Class
+
+Create a 2-Dim Dynamic Array
+
+1) Create a class with the following properties
+
+     a) int nRows
+
+     b) int nCols
+
+     c) int **array
+
+2) Include the following behaviors
+
+     a) constructor Array(int,int) which has 2 parameters the number of rows and cols for the 2 D array.
+
+     b) a char * toString() behavior which returns a string with the contents of the array in character array format
+
+     c) create a destructor to deallocate memory.
+
+     Note:  Fill the array in the constructor with random 2 digit numbers.
+
+3) We created a hello world program with Qt.  See the attachment.  You are to use the Class created from 1) and 2)
+
+to use in the Hello World Qt program.  
+
+4) Create a GUI Hello World Program and Populate the label with the String that you can create from an object instantiated
+
+above.
+
+Post here, and copy yourself on an email which has the solution zipped and attached to an email sent to
+
+mark.lehr@rcc.edu with subject: Lastname, Firstname - Review Assignment 1b - 48941

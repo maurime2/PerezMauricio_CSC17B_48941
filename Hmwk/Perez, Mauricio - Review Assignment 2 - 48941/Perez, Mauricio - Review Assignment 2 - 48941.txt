@@ -1,0 +1,18 @@
+Take Assignment 1 and split into Abstract, Base and Derived class.  Show polymorphic behavior
+
+with an integer and float array type.
+
+Abstract -> fillarray function
+
+Base -> constructor, destructor, fillarray, toString
+
+Derived -> toPrint
+
+Also, choose from the following list for class project, else develop your own
+
+Guess who, Game of Life, RPG, Oregon Trail, Yahtzee, Casino Games, Mastermind, Minesweeper, Chess, etc......
+
+Post here, and copy yourself on an email which has the solution zipped and attached to an email sent to
+
+mark.lehr@rcc.edu with subject: Lastname, Firstname - Review Assignment 2 - 48941
+
