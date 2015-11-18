@@ -16,12 +16,16 @@
 
 //Execution begins here
 int main(int argc, char *argv[]){
+
     //Start the Windowed Applications
     QApplication app(argc, argv);
+
     //Add a label
     QLabel *label=new QLabel("HelloWorld");
+
     //Show the label
     label->show();
+
     //Send to the controller
     return app.exec();
 }
