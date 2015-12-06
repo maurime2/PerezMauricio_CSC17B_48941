@@ -2,4 +2,5 @@ See the attached program,
 
 Implement with QVector, QSet, and QMap
 
-Zip all the folders, post here and create an email which copies yourself and attach the zip file then send to mark.lehr@rcc.edu with subject:  Lastname, Firstname - Mean,Median,Mode QSTL 11/4/15  - 48941
+Zip all the folders, post here and create an email which copies yourself and attach the zip file then send to mark.lehr@rcc.edu with subject:  
+Perez, Mauricio - Mean,Median,Mode QSTL 11/4/15  - 48941

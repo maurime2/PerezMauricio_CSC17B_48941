@@ -1,0 +1,7 @@
+1)  Run the applications from the TCP/UDP sections of the book and the
+
+chapter on Threading.
+
+2)  Include 1 concept from each in your final project. 
+
+Submit here and send an email to mark.lehr@rcc.edu with subject:  Perez, Mauricio - Assignment TCPUDP & Threads - 48941

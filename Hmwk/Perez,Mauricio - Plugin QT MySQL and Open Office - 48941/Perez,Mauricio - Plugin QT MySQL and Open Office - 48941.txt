@@ -1,0 +1,15 @@
+Create a QT connection with the remote database and retrieve data.
+Naturally, you are going to have to create the table and data using mySQL Workbench.
+
+Also, utilize Open Office base to create a connection and build a query.
+
+To use Open Office,
+1)  Download open office,
+2)  Download the mysql connector j
+3)  Open writer->Tools->Options->Java and choose the JRE as well as adding the connector j into the 
+		class path
+4)  Open Base, create a connection to the remote mysql database and design a query to retrieve 
+		information
+5)  Edit, copy and paste the sql created.
+
+Follow the instructions on the I Drive.
